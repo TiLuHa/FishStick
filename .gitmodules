@@ -1,0 +1,9 @@
+[submodule "external_libs/json"]
+	path = external_libs/json
+	url = git@github.com:nlohmann/json.git
+[submodule "external_libs/mailio"]
+	path = external_libs/mailio
+	url = git@github.com:karastojko/mailio.git
+[submodule "external_libs/cpp-httplib"]
+	path = external_libs/cpp-httplib
+	url = https://github.com/yhirose/cpp-httplib.git
