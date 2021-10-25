@@ -7,3 +7,7 @@ set -e
 pushd external_libs
    ./build.sh
 popd
+
+pushd backend
+   make
+popd
