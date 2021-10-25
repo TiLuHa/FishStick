@@ -2,3 +2,5 @@ SDK
 bin
 build
 *.kdev4
+deployment
+
